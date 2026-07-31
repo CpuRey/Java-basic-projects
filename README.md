@@ -12,4 +12,9 @@ Hello! In this repository you could see my progress in writing basic java codes.
   
 4. SubjectGrading.java - Ask the user what are the subject and there grades. Then displays the average, lowest, and highest scores.
    - For-loop, If-else condition, Scanner, and While-loop.
-   
+
+5. NumberGuessingGame.java - The player must correctly guess the secret number.
+There are 3 difficulties from which will
+increase the max number from small to big.
+   - Uses Do-while loop, If-else condition, Logical and Relational operators, Random class, Scanner class, Switch statement, and While-loop.
+
