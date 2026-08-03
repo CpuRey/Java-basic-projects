@@ -17,4 +17,10 @@ Hello! In this repository you could see my progress in writing basic java codes.
 There are 3 difficulties from which will
 increase the max number from small to big.
    - Uses Do-while loop, If-else condition, Logical and Relational operators, Random class, Scanner class, Switch statement, and While-loop.
+  
+6. MiniBankingSystem.java - A banking system where the user can Deposit, Withraw, Transfer, View balance, and see their Transaction History.
+   - Uses 1-dimensional Array, Do-while loop, For-loop, If condition, Arithmetic, Logical, and Relational operators, Scanner class, and Switch statement.
+
+ 
+
 
